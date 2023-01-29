@@ -1,0 +1,13 @@
+There are several GUI libraries available for Python, and the best one for you will depend on your specific requirements and use case. Some popular choices include:
+
+Tkinter: This is the built-in GUI library for Python and is included with the standard Python distribution. It is a simple, easy-to-use library that is great for small projects and beginners.
+
+PyQt: This is a set of Python bindings for the Qt application framework and runs on all platforms supported by Qt including Windows, OS X, Linux, iOS, and Android. It is a powerful, mature library that is widely used in industry.
+
+wxPython: This is a set of Python bindings for the wxWidgets cross-platform GUI toolkit. It is an open-source library that is relatively easy to use and provides a native look and feel on all supported platforms.
+
+Kivy: This is an open-source library for creating multi-touch applications. It is designed for use on touch devices such as smartphones and tablets, and is also useful for creating desktop and mobile apps with a modern, touch-friendly interface.
+
+PySide: This is another set of Python bindings for the Qt application framework and similar to PyQt. PySide was developed by Nokia, and later, the Qt Project.
+
+These are the most commonly used GUI libraries for Python, but there are others available as well. It's always good to research and compare the features, documentation and community support before selecting one that suits your needs best.
